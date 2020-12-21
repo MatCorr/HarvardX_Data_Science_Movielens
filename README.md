@@ -1,4 +1,5 @@
-# HarvardX Data Science Professional Certificate - Capstone Project 1 - Movielens
+# HarvardX Data Science Professional Certificate
+# Capstone Project 1 - Movielens
 
 This repository was created to store the deliverable products of the first project in the final course of the HarvardX Data Science program. In it, a recommendation model was built based on the Movielens 10M dataset.
 
